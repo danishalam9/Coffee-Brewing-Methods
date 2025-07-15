@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" >
+  <title>Coffee Brewing Methods</title>
+  <link rel="stylesheet" href="style.css" >
+</head>
+<body>
+
+  <h1>Coffee Brewing Methods</h1>
+  <p>Discover different ways to enjoy your coffee.</p>
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFSkxuOkpa8Po9TEsn3xbKMheJbYHuMXKng&s" alt="Coffee Brew" width="300">
+
+  <div class="box">
+    <h2>French Press</h2>
+    <p>Rich and bold. Ground coffee steeps in hot water before being pressed down.</p>
+  </div>
+
+  <div class="box">
+    <h2>Pour Over</h2>
+    <p>Crisp and clean. Hot water poured over grounds in a filter slowly drips into a carafe.</p>
+  </div>
+
+  <div class="box">
+    <h2>Espresso</h2>
+    <p>Strong and intense. Pressurized water is forced through finely ground coffee beans.</p>
+  </div>
+
+  <div class="box">
+    <h2>Cold Brew</h2>
+    <p>Smooth. Coffee grounds steep in cold water for 12–24 hours.</p>
+  </div>
+
+</body>
+</html>
